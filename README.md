@@ -43,8 +43,9 @@ Backplane 4+1 for RCBus
 
 
 ## Production files
-Gerber files prepared for production at JLCPCB(backplane4-JLCPCB.zip)
-Mounting plate base for 3d printing(RCBus4.stl)
+[Gerber files prepared for production at JLCPCB](backplane4-JLCPCB.zip)
+
+[Mounting plate base for 3d printing](RCBus4.stl)
 
 ## License
 
