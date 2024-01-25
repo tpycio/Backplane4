@@ -36,14 +36,14 @@ Backplane 4+1 for RCBus
 | DC Supply          | P1        | DC supply socket, male, soldering, 5.5/2.1  | 1        |
 | Power Socket       | P2        | Socket, wire-board, male, 2.45 mm pitch     | 1        |
 | Connector          | S1 - S4   | Pin strips, 2x40 female, straight, 2.54mm   | 4        |
-| Connector          | S5        | Pin strips, 2x40 female, angled 90°, 2.54mm | 1        |
+| Connector          | S5        | Pin strips, 2x40 female, angled 90Â°, 2.54mm | 1        |
 | Pin Header         | J1 - J6   | 2x2 pin header, 2.54 mm pitch               | 6        |
 | Pin Header         | JP1       | 1x3 pin header, 2.54 mm pitch               | 1        |
 | Connector          | JP2       | 2 pin JST XH2.54 socket male                | 1        |
 
 
 ## Production files
-[Gerber files prepared for production at JLCPCB](backplane4-JLCPCB.zip)
+[Gerber files prepared for production at JLCPCB](backplane4-JLCPCB.ZIP)
 
 [Mounting plate base for 3d printing](RCBus4.stl)
 
